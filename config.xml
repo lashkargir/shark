@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns   = "http://www.w3.org/ns/widgets"
+    xmlns:gap   = "http://phonegap.com/ns/1.0"
+    id          = "mohsen.example"
+    versionCode = "10"
+    version     = "1.0.0" >
+
+<!-- versionCode is optional and Android only -->
+
+  <name> Fish </name>
+
+  <description>
+      Write by mohsen lashkargir for test
+  </description>
+
+  <author  email="mlashkargir@gmail.com">
+      mohsen lashkargir 
+  </author>
+   <icon src="icon.png">
+</widget>
